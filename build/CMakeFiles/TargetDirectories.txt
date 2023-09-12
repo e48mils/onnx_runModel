@@ -1,9 +1,0 @@
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/Experimental.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/Nightly.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/Continuous.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/cpp_onnx_proj.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/PACKAGE.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/RUN_TESTS.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/ALL_BUILD.dir
-C:/cpp_projects/cpp_onnx_proj/build/CMakeFiles/ZERO_CHECK.dir
