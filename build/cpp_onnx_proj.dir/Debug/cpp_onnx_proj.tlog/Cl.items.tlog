@@ -1,0 +1,6 @@
+C:\cpp_projects\cpp_onnx_proj\src\main.cpp;C:\cpp_projects\cpp_onnx_proj\build\cpp_onnx_proj.dir\Debug\main.obj
+C:\cpp_projects\cpp_onnx_proj\src\printMessages\printMessages.cpp;C:\cpp_projects\cpp_onnx_proj\build\cpp_onnx_proj.dir\Debug\printMessages.obj
+C:\cpp_projects\cpp_onnx_proj\src\opencv_scripts\onnx_model\onnx_model.cpp;C:\cpp_projects\cpp_onnx_proj\build\cpp_onnx_proj.dir\Debug\onnx_model.obj
+C:\cpp_projects\cpp_onnx_proj\src\opencv_scripts\dispImage\dispImage.cpp;C:\cpp_projects\cpp_onnx_proj\build\cpp_onnx_proj.dir\Debug\dispImage.obj
+C:\cpp_projects\cpp_onnx_proj\src\data_structures\vector_indexed_probabilities\vector_indexed_probabilities.cpp;C:\cpp_projects\cpp_onnx_proj\build\cpp_onnx_proj.dir\Debug\vector_indexed_probabilities.obj
+C:\cpp_projects\cpp_onnx_proj\src\data_structures\vector_indexed_probabilities\struct_indexed_probability\struct_indexed_probability.cpp;C:\cpp_projects\cpp_onnx_proj\build\cpp_onnx_proj.dir\Debug\struct_indexed_probability.obj
